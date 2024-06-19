@@ -109,9 +109,34 @@
     "name": "DeepseekCoder-1.3B",
     "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base",
     "urls": [
-      "https://huggingface.co/TheBloke/deepseek-coder-1.3b-base-GGUF/resolve/main/deepseek-coder-1.3b-base.Q8_0.gguf"
+      "https://huggingface.co/TheBloke/deepseek-coder-1.3b-base-GGUF/resolve/main/deepseek-coder-1.3b-base.Q8_0.gguf",
+      "https://hf-mirror.com/TheBloke/deepseek-coder-1.3b-base-GGUF/resolve/main/deepseek-coder-1.3b-base.Q8_0.gguf",
     ],
     "sha256": "9fcdcb283ef5b1d80ec7365b307c1ceab0c0f8ea079b49969f7febc06a11bccd"
+  },
+  {
+    "license_name": "MIT",
+    "license_url": "https://github.com/deepseek-ai/DeepSeek-Coder-V2/blob/main/LICENSE-MODEL",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+    "name": "DeepseekCoderV2-base-i1",
+    "provider_url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base",
+    "urls": [
+      "https://huggingface.co/mradermacher/DeepSeek-Coder-V2-Lite-Base-i1-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Base.i1-Q4_K_M.gguf",
+      "https://hf-mirror.com/mradermacher/DeepSeek-Coder-V2-Lite-Base-i1-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Base.i1-Q4_K_M.gguf"
+    ],
+    "sha256": "878507c872a5b4775416a767bbcca1a1371cba114b6e8c6a41a0934b8a8b7b1e"
+  },
+  {
+    "license_name": "MIT",
+    "license_url": "https://github.com/deepseek-ai/DeepSeek-Coder-V2/blob/main/LICENSE-MODEL",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+    "name": "DeepseekCoderV2-base",
+    "provider_url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base",
+    "urls": [
+      "https://huggingface.co/mradermacher/DeepSeek-Coder-V2-Lite-Base-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Base.Q4_K_M.gguf",
+      "https://hf-mirror.com/mradermacher/DeepSeek-Coder-V2-Lite-Base-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Base.Q4_K_M.gguf"
+    ],
+    "sha256": "5298b2380468ea4a10ebd4e930ed5d6af21cf886cbe26af2a5235987cd366c80"
   },
   {
     "license_name": "Deepseek License",
@@ -120,7 +145,8 @@
     "name": "DeepseekCoder-6.7B",
     "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base",
     "urls": [
-      "https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q8_0.gguf"
+      "https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q8_0.gguf",
+      "https://hf-mirror.com/TheBloke/deepseek-coder-6.7B-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q8_0.gguf"
     ],
     "sha256": "a2f82242ac5e465037cbf1ed754f04f0be044ee196e1589905f9e4dcd0e6559d"
   },
