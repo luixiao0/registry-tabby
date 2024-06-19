@@ -17,13 +17,12 @@ We have published benchmarks for these models on https://leaderboard.tabbyml.com
 | [TabbyML/StarCoder2-3B](https://huggingface.co/bigcode/starcoder2-3b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
 | [TabbyML/StarCoder2-7B](https://huggingface.co/bigcode/starcoder2-7b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
 | [TabbyML/CodeLlama-7B](https://huggingface.co/codellama/CodeLlama-7b-hf) | [Llama 2](https://github.com/facebookresearch/llama/blob/main/LICENSE) |
-| [TabbyML/CodeLlama-13B](https://huggingface.co/codellama/CodeLlama-13b-hf) | [Llama 2](https://github.com/facebookresearch/llama/blob/main/LICENSE) |
 | [TabbyML/DeepseekCoder-1.3B](https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
+| [TabbyML/Deepseek-V2-Lite-Base](https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
 | [TabbyML/DeepseekCoder-6.7B](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
 | [TabbyML/CodeGemma-2B](https://huggingface.co/google/codegemma-2b) | [Gemma License](https://ai.google.dev/gemma/terms) |
 | [TabbyML/CodeGemma-7B](https://huggingface.co/google/codegemma-7b) | [Gemma License](https://ai.google.dev/gemma/terms) |
 | [TabbyML/CodeQwen-7B](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |
-| [TabbyML/Codestral-22B](https://huggingface.co/mistralai/Codestral-22B-v0.1) | [Mistral AI Non-Production License](https://mistral.ai/licenses/MNPL-0.1.md) |
 
 
 ## Chat models (`--chat-model`)
@@ -37,4 +36,3 @@ To ensure optimal response quality, and given that latency requirements are not 
 | [TabbyML/Deepseek-V2-Lite-Chat](https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
 | [TabbyML/CodeGemma-7B-Instruct](https://huggingface.co/google/codegemma-7b-it) | [Gemma License](https://ai.google.dev/gemma/terms) |
 | [TabbyML/CodeQwen-7B-Chat](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |
-| [TabbyML/Codestral-22B](https://huggingface.co/mistralai/Codestral-22B-v0.1) | [Mistral AI Non-Production License](https://mistral.ai/licenses/MNPL-0.1.md) |
