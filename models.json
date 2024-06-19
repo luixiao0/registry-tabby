@@ -110,7 +110,7 @@
     "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base",
     "urls": [
       "https://huggingface.co/TheBloke/deepseek-coder-1.3b-base-GGUF/resolve/main/deepseek-coder-1.3b-base.Q8_0.gguf",
-      "https://hf-mirror.com/TheBloke/deepseek-coder-1.3b-base-GGUF/resolve/main/deepseek-coder-1.3b-base.Q8_0.gguf",
+      "https://hf-mirror.com/TheBloke/deepseek-coder-1.3b-base-GGUF/resolve/main/deepseek-coder-1.3b-base.Q8_0.gguf"
     ],
     "sha256": "9fcdcb283ef5b1d80ec7365b307c1ceab0c0f8ea079b49969f7febc06a11bccd"
   },
