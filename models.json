@@ -103,6 +103,17 @@
     "sha256": "9fcdcb283ef5b1d80ec7365b307c1ceab0c0f8ea079b49969f7febc06a11bccd"
   },
   {
+    "name": "Deepseek-V2-Lite-Base-q8",
+    "provider_url": "https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite",
+    "license_name": "Deepseek License",
+    "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+    "urls": [
+      "https://huggingface.co/bartowski/DeepSeek-Coder-V2-Lite-Base-GGUF/resolve/main/DeepSeek-Coder-V2-Lite-Base-Q8_0.gguf"
+    ],
+    "sha256": "22cef614d5b3e1d00ece317ded91c48046f1a6f24618639dea110fbc22e5f86c"
+  },
+  {
     "name": "Deepseek-V2-Lite-Base",
     "provider_url": "https://huggingface.co/deepseek-ai/DeepSeek-V2-Lite",
     "license_name": "Deepseek License",
